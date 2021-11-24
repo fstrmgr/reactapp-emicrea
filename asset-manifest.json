@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactapp-emicrea/static/css/main.9fabfb2c.chunk.css",
+    "main.css": "/reactapp-emicrea/static/css/main.c1a04b0c.chunk.css",
     "main.js": "/reactapp-emicrea/static/js/main.408cde99.chunk.js",
     "main.js.map": "/reactapp-emicrea/static/js/main.408cde99.chunk.js.map",
     "runtime-main.js": "/reactapp-emicrea/static/js/runtime-main.75208a80.js",
@@ -8,7 +8,7 @@
     "static/js/2.d789065f.chunk.js": "/reactapp-emicrea/static/js/2.d789065f.chunk.js",
     "static/js/2.d789065f.chunk.js.map": "/reactapp-emicrea/static/js/2.d789065f.chunk.js.map",
     "index.html": "/reactapp-emicrea/index.html",
-    "static/css/main.9fabfb2c.chunk.css.map": "/reactapp-emicrea/static/css/main.9fabfb2c.chunk.css.map",
+    "static/css/main.c1a04b0c.chunk.css.map": "/reactapp-emicrea/static/css/main.c1a04b0c.chunk.css.map",
     "static/js/2.d789065f.chunk.js.LICENSE.txt": "/reactapp-emicrea/static/js/2.d789065f.chunk.js.LICENSE.txt",
     "static/media/basil.be00474e.jpg": "/reactapp-emicrea/static/media/basil.be00474e.jpg",
     "static/media/cactus.a71c2062.jpg": "/reactapp-emicrea/static/media/cactus.a71c2062.jpg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.75208a80.js",
     "static/js/2.d789065f.chunk.js",
-    "static/css/main.9fabfb2c.chunk.css",
+    "static/css/main.c1a04b0c.chunk.css",
     "static/js/main.408cde99.chunk.js"
   ]
 }
