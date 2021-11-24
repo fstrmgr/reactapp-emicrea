@@ -1,27 +1,36 @@
 .lmj-plant-item-cover {
-	height: 250px;
-	width: 250px;
-	border-radius: 20px;
-	object-fit: cover;
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  object-fit: cover;
 }
 
 .lmj-plant-item {
-	margin: 10px;
-	display: flex;
-	align-items: flex-start;
-	justify-content: center;
-	flex-direction: column;
-	text-transform: capitalize;
-	position: relative;
+  margin: 10px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  text-transform: capitalize;
+  position: relative;
+}
+
+.lmj-plant-item:hover {
+  /* L'image est grossie de 10% */
+  -webkit-transform: scale(1.1); /* Safari et Chrome */
+  -moz-transform: scale(1.1); /* Firefox */
+  -ms-transform: scale(1.1); /* Internet Explorer 9 */
+  -o-transform: scale(1.1); /* Opera */
+  transform: scale(1.1);
 }
 
 .lmj-plant-item-price {
-	position: absolute;
-	border-radius: 20px 20px 20px 0;
-	background-color: #31b472;
-	color: white;
-	padding: 15px;
-	right: 0;
-	top: 0;
-	font-weight: 500;
+  position: absolute;
+  border-radius: 20px 20px 20px 0;
+  background-color: #31b472;
+  color: white;
+  padding: 15px;
+  right: 0;
+  top: 0;
+  font-weight: 500;
 }
