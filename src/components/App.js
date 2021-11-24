@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import Banner from './Banner'
-import logo from '../assets/logo.png'
+import logo from '../assets/logo.jpeg'
 import Cart from './Cart'
 import Footer from './Footer'
 import ShoppingList from './ShoppingList'
@@ -17,7 +17,7 @@ function App() {
 		<div>
 			<Banner>
 				<img src={logo} alt='logo-la-maison-jungle' className='lmj-logo' />
-				<h1 className='lmj-title'>EmiCrea</h1>
+				{/* <h1 className='lmj-title'>EmiCrea</h1> */}
 			</Banner>
 			<div className='lmj-layout-inner'>
 				<Cart cart={cart} updateCart={updateCart} />
